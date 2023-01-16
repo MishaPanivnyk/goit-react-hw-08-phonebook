@@ -3,7 +3,7 @@
 # React homework template
 
 Ten projekt został stworzony przy pomocy
-[Create React App](https://github.com/facebook/create-react-app). W celu
+[Create React App](https://github.com/facebook/create-react-app). W cel
 zapoznania się z ustawieniami dodatkowych opcji
 [zobacz dokumentację](https://facebook.github.io/create-react-app/docs/getting-started).
 
