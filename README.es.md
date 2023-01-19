@@ -15,7 +15,7 @@ Este proyecto fue creado con la ayuda de
 6. Instala las dependencias base del proyecto con el comando `npm install`.
 7. Inicia el modo de desarrollo ejecutando el comando `npm start`.
 8. En tu navegador, ve a la dirección [http://localhost:3000](http://localhost:3000).
-   Esta página se recargará automáticamente después de guardar los cambios en los archivos del proyecto.
+   Esta página se recargará automáticamente después de guardar los cambios en los archivos del proyecto./
 
 ## Implementación
 
