@@ -7,6 +7,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #e6f4fd;
 }
 
 code {
@@ -36,7 +37,7 @@ img {
 }
 
 a {
- text-decoration: none
+  text-decoration: none;
 }
 
 button,
