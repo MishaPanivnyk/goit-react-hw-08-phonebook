@@ -13,9 +13,8 @@ export default function Contact({ id, name, number }) {
   const [isDeleting, setIsDeleting] = useState(false);
   return (
     <ContactListItem>
-      <p>
-        {name}: {number}
-      </p>
+      <p>{name}</p>
+      <p>{number}</p>
       <button
         type="button"
         onClick={handleDelete}

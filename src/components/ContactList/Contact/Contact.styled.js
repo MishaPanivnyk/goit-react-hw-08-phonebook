@@ -4,11 +4,13 @@ export const ContactListItem = styled.li`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 20px;
+  /* gap: 200px; */
+  background: #2ee59d;
 
   p {
     font-family: inherit;
     font-size: 14px;
+    font-weight: 700;
   }
 
   span {

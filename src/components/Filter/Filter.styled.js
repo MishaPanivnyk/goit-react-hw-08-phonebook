@@ -1,12 +1,13 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+  margin-right: 10px;
   display: flex;
   align-items: center;
   flex-direction: column;
   gap: 5px;
-
-  margin-bottom: 20px;
+  /* margin-top: 50px; */
+  /* margin-bottom: 20px; */
 
   label {
     display: block;
@@ -16,7 +17,7 @@ export const Container = styled.div`
   input {
     width: 250px;
 
-    font-size: 12px;
+    font-size: 14px;
 
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;

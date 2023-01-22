@@ -1,12 +1,12 @@
 import styled from 'styled-components';
 
 export const Form = styled.form`
+  /* width: 100px; */
   display: flex;
-  align-items: center;
-  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
   gap: 10px;
-
-  margin-bottom: 20px;
+  background: transparent;
 
   label {
     display: block;
@@ -30,14 +30,14 @@ export const Form = styled.form`
     }
   }
   button {
-    padding: 5px 5px;
+    padding: 6px 5px;
     border: none;
     border-radius: 4px;
     min-width: 90px;
+    /* height: 50px; */
 
     background-color: #2196f3;
     color: #ffffff;
-
     font-family: inherit;
     font-weight: 500;
     font-size: 14px;

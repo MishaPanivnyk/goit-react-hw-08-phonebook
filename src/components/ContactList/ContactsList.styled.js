@@ -5,3 +5,7 @@ export const ContactsList = styled.ul`
   flex-direction: column;
   gap: 10px;
 `;
+export const Title = styled.h1`
+  display: flex;
+  justify-content: center;
+`;
